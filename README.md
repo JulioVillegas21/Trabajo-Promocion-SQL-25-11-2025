@@ -1,6 +1,6 @@
-# Proyecto INNOVA 2025 - Gestión de Feria de Ciencias
+# Trabajo de Promoción: Proyecto INNOVA 2025 - Gestión de Feria de Ciencias
 
-Este proyecto consiste en el diseño y desarrollo de una base de datos relacional para gestionar la **Feria Nacional de Ciencia y Tecnología "INNOVA 2025"**, organizada por el Ministerio de Educación.
+Este es un **trabajo integrador de promoción** para la materia de Base de Datos, que consiste en el diseño y desarrollo de una base de datos relacional para gestionar la **Feria Nacional de Ciencia y Tecnología "INNOVA 2025"**, organizada por el Ministerio de Educación.
 
 ## 📋 Descripción del Problema
 La base de datos permite registrar y administrar toda la información de los proyectos presentados por instituciones educativas:
@@ -23,7 +23,7 @@ La base de datos permite registrar y administrar toda la información de los pro
   - Docente Responsable a Proyecto: **1:N**.
 
 ### Normalización
-El esquema ha sido analizado y validado en la **Forma Normal de Boyce-Codd (BCNF)** y la **Tercera Forma Normal (3FN)** para todas sus tablas, asegurando la integridad y evitando redundancias.
+El esquema ha sido analizado y validado en la **Forma Normal de Boyce-Codd (BCNF)** y la **Tercera Forma Normal (3FN)** para todas sus tablas, asegurando la integridad de los datos y evitando redundancias.
 
 ## 💻 Implementación SQL
 El sistema incluye un script completo (`Codigo Sql , Datos y consultas.txt`) con:
@@ -35,3 +35,11 @@ El sistema incluye un script completo (`Codigo Sql , Datos y consultas.txt`) con
    - Estadísticas de docentes y proyectos por entidad.
    - Listado de alumnos por área temática.
    - Reporte detallado de docentes responsables.
+
+## 👥 Integrantes
+- Francisco Blason
+- Julio Villegas
+
+## 🎓 Profesores a Cargo
+- Norma Edith Herrera
+- Hugo Andrés Belis
